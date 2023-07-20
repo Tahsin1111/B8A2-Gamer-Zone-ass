@@ -1,0 +1,23 @@
+@media screen and (max-width:576px) {
+.header{
+    padding: 20px;
+   
+}
+    .nav, .gamer-section,.card ,.play-instantly,.icon-bar,.icon,.footer-title,.paragraph,.terms{
+        margin: 0 auto;
+     flex-direction: column;
+    }
+    .banner,.gamer-section
+    {  padding: 20px;
+        flex-direction: column;
+        text-align: center;
+    }
+   .banner-img, .img{
+    width: auto;
+    height: 400px;
+   }
+   .instant-img{
+    
+
+   }
+}
